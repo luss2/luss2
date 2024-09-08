@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luss2
 - 👀 I’m interested in Construction & Farming
 - 🌱 I’m currently learning Rust & AI Python stuff
-- 💞️ I’m looking to collaborate on ...
 - 📫 denis@lussier.io
 - 😄 Pronouns: ugly, obnoxious, mean
 - ⚡ Fun fact: I wanted to be an Astronaut..
